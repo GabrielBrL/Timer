@@ -3,11 +3,15 @@ Timer para gravar ações do usuário
 
 ## Atalhos
 Com o app executado:
+- Abre a informações sobre o app
 ```
 CmdOrCtrl+Shift+S 
+```
+- Abre a informações sobre o app
+```
 CmdOrCtrl+I       
-Alt+M
+```
+- Minimiza a tela
 ```             
--> Abre a informações sobre o app
--> Abre a informações sobre o app
--> Minimiza a tela
+Alt+M
+```              
